@@ -88,7 +88,7 @@ export const watchLinks: Record<string, WatchLink[]> = {
     {
       id: '2-1',
       name: 'Stream 1',
-      url: 'https://dreammlivveexx.blogspot.com/p/volly-6.html',
+      url: 'https://ftmtime.blogspot.com/p/iframe7.html?r=aHR0cHM6Ly90dm1hbGF5c2lhLndlYnNpdGUvYmVpbjMuaHRtbA==',
       quality: 'HD',
       language: 'Spanish'
     }
