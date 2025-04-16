@@ -25,8 +25,8 @@ export const socialLinks = {
 export const matches: Match[] = [
   {
     id: '1',
-    homeTeam: 'Barcelona',
-    awayTeam: 'Dortmund',
+    homeTeam: 'Arsenal',
+    awayTeam: 'RealMadrid',
     date: '10',
     time: '12:30',
     competition: 'ucl',
@@ -34,8 +34,8 @@ export const matches: Match[] = [
   },
   {
     id: '2',
-    homeTeam: 'Aston villa',
-    awayTeam: 'PSg',
+    homeTeam: 'Inter',
+    awayTeam: 'BAyern',
     date: '2025-03-21',
     time: '21:00',
     competition: 'La Liga',
@@ -72,14 +72,14 @@ export const watchLinks: Record<string, WatchLink[]> = {
     {
       id: '0-0',
       name: 'Stream 2',
-      url: 'https://dreammlivveexx.blogspot.com/p/epl-2.html',
+      url: 'https://ftmtime.blogspot.com/p/4z.html',
       quality: '4K',
       language: 'English'
     },
      {
       id: '0-0',
       name: 'Stream 3',
-      url: 'https://nunflix.org/sport/borussia-dortmund-vs-barcelona-2235779',
+      url: 'https://ftmtime.blogspot.com/p/iframe7.html?r=aHR0cHM6Ly90dm1hbGF5c2lhLndlYnNpdGUvYmVpbjMuaHRtbA==',
       quality: '4K',
       language: 'Youtube'
     }
@@ -88,7 +88,7 @@ export const watchLinks: Record<string, WatchLink[]> = {
     {
       id: '2-1',
       name: 'Stream 1',
-      url: 'https://ftmtime.blogspot.com/p/iframe7.html?r=aHR0cHM6Ly90dm1hbGF5c2lhLndlYnNpdGUvYmVpbjMuaHRtbA==',
+      url: 'https://ftmtime.blogspot.com/p/9.html',
       quality: 'HD',
       language: 'Spanish'
     }
